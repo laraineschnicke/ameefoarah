@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisaetaizi.erc721.news/sitemap.xml
